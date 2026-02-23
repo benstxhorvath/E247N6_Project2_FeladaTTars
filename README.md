@@ -1,0 +1,2 @@
+# E247N6_Project2_FeladaTTars
+2026 tavaszi szemeszter mobilalkalmazás fejlesztési projekt
